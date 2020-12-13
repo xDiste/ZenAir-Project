@@ -1,0 +1,8 @@
+
+3) trasversal path e script di controllo di tutti i get(impedire script su url e impedire utente che va dentro scripts da fs(url))
+
+5) commentare il codice per ricordarsi piu in la cio che abbiamo scritto 
+
+
+
+
