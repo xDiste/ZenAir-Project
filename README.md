@@ -2,6 +2,7 @@
 
 
 ZenAir is a website developed for a university assignment where you can check flights and book them.
+You can try the site [here](https://webdev19.dibris.unige.it/~S4638131/)!
 
 ----------------------------------------------------------------------------------------------------
 ### **Main features implemented:**
@@ -23,6 +24,3 @@ Within the administrative area it also keeps track of how many users have regist
 ----------------------------------------------------------------------------------------------------
 ### **Database structure**
 ![database](https://user-images.githubusercontent.com/59747500/126040314-a3012ae9-fb75-4b4b-a191-328f2c234940.png)
-----------------------------------------------------------------------------------------------------
-
-You can try the site [here](https://webdev19.dibris.unige.it/~S4638131/)!
